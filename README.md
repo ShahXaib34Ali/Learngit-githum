@@ -1,1 +1,2 @@
-# Learngit-githum
+Author Shahzaib Ali
+Learn Git & GitHub
